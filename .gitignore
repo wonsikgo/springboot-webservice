@@ -4,6 +4,8 @@
 .idea
 
 application-real-oauth.properties
+application-oauth.properties
 
 build
 out
+src/test/resources/
